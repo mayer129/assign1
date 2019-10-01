@@ -1,7 +1,8 @@
 # assign1
 CPSC 350 DNA Analysis Assignment
 
-
+Travis Mayer
+002273275
 
 Citations:
 Data Structures and Algorithms in C++ 2nd Edition Textbook
